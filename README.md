@@ -1,4 +1,4 @@
-# Hi there, I'm Manya Kalia 👋 ✨
+# Hi there, I'm Manya Kalia!
 
 <div align="center">
 
