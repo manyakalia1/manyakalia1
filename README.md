@@ -59,4 +59,4 @@
 ---
 
 ### ⚡ Quick Quote
-> *"The secret of getting ahead is getting started."* — Mark Twain
+> *"Think twice, code once."*
