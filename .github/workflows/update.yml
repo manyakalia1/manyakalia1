@@ -1,0 +1,50 @@
+name: Auto Update GitHub Profile Stats & Heatmap
+
+on:
+  schedule:
+    # Runs automatically every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI anytime
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - '**.md'
+      - '**.svg'
+      - 'data/contributions.json'
+
+jobs:
+  update-profile-assets:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Fetch Latest GitHub Contributions & Generate Heatmap
+        run: |
+          python scripts/fetch_contributions.py manyakalia1
+          python scripts/render_heatmap_svg.py
+          python scripts/make_info_card.py
+          python scripts/make_ascii_svg.py
+
+      - name: Commit and Push Updated Assets
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "auto: update contribution heatmap and profile SVGs [skip ci]"
+          branch: main
