@@ -55,9 +55,3 @@
 
 ### ⚡ Quick Quote
 > *"The secret of getting ahead is getting started."* — Mark Twain
-
----
-
-<div align="center">
-  <sub>Designed with ❤️ for <b>manyakalia1</b>'s GitHub Profile</sub>
-</div>
