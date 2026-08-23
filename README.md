@@ -14,6 +14,7 @@
 
 ### 🚀 About Me
 - 🔭 Working on building innovative web applications & scalable solutions
+- 🌐 Experienced in deploying applications on **Vercel** & cloud hosting
 - 🌱 Currently learning advanced full-stack development, cloud architecture & AI tools
 - 👯 Looking to collaborate on open-source projects and creative web apps
 - 💬 Ask me about **Java, JavaScript, Python, SQL, DBMS, React, Web Development**
@@ -41,7 +42,8 @@
 ![DBMS](https://img.shields.io/badge/DBMS-005C84?style=for-the-badge&logo=databricks&logoColor=white)
 ![Operating Systems](https://img.shields.io/badge/Operating_Systems-0078D6?style=for-the-badge&logo=linux&logoColor=white)
 
-#### **Tools & Developer Ecosystem**
+#### **Tools & Deployment**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
