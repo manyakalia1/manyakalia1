@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Enthusiast;Problem+Solver;Tech+Explorer)](https://git.io/typing-svg)
 
+<br />
+
+<img src="manya-ascii.svg" width="550" alt="ASCII Self-Typing Portrait" />
+
 </div>
 
 ---
