@@ -53,9 +53,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Contributions
 
 <div align="center">
+  <img src="contrib-heatmap.svg" width="100%" alt="Contribution Heatmap" />
+  <br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=manyakalia1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manya's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyakalia1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
