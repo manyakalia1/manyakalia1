@@ -7,7 +7,9 @@
 
 <br />
 
-<img src="manya-ascii.svg?v=3" width="550" alt="ASCII Self-Typing Portrait" />
+<img src="manya-ascii.svg" width="520" alt="ASCII Self-Typing Portrait" />
+<br /><br />
+<img src="info-card.svg" width="520" alt="Neofetch Terminal System Info" />
 
 </div>
 
