@@ -7,7 +7,7 @@
 
 <br />
 
-<img src="manya-ascii.svg" width="550" alt="ASCII Self-Typing Portrait" />
+<img src="manya-ascii.svg?v=3" width="550" alt="ASCII Self-Typing Portrait" />
 
 </div>
 
