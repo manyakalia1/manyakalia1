@@ -1,15 +1,23 @@
-# Hi there, I'm Manya Kalia!
-
+# Hi there, I'm Manya Kalia 👋 ✨
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Enthusiast;Problem+Solver;Tech+Explorer)](https://git.io/typing-svg)
 
-<br />
+<br><br>
 
-<img src="manya-ascii.svg" width="520" alt="ASCII Self-Typing Portrait" />
-<br /><br />
-<img src="info-card.svg" width="520" alt="Neofetch Terminal System Info" />
+<h3><code>manyakalia1@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./manya-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
+
+<br><br>
+
+<h3><code>manyakalia1@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
 
 </div>
 
@@ -53,11 +61,9 @@
 
 ---
 
-### 📊 GitHub Stats & Contributions
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="contrib-heatmap.svg" width="100%" alt="Contribution Heatmap" />
-  <br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=manyakalia1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manya's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyakalia1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
