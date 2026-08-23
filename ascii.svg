@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 724" width="720" height="724">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 700" width="720" height="700">
   <style>
     .bg { fill: #0d1117; }
     .ascii-text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; font-size: 10px; font-weight: 500; fill: #e2e8f0; white-space: pre; }
@@ -282,16 +282,6 @@
         <animate attributeName="width" from="0" to="680.00" begin="2.430s" dur="0.350s" fill="freeze" />
       </rect>
     </clipPath>
-    <clipPath id="clip-row-55">
-      <rect x="20.0" y="680.0" width="0" height="12.0">
-        <animate attributeName="width" from="0" to="680.00" begin="2.475s" dur="0.350s" fill="freeze" />
-      </rect>
-    </clipPath>
-    <clipPath id="clip-row-56">
-      <rect x="20.0" y="692.0" width="0" height="12.0">
-        <animate attributeName="width" from="0" to="680.00" begin="2.520s" dur="0.350s" fill="freeze" />
-      </rect>
-    </clipPath>
   </defs>
   <text x="20.0" y="28.50" class="ascii-text" clip-path="url(#clip-row-0)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="20.00" width="6.80" height="12.00" class="cursor" opacity="0">
@@ -303,279 +293,269 @@
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.045s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.045s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="52.50" class="ascii-text" clip-path="url(#clip-row-2)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="52.50" class="ascii-text" clip-path="url(#clip-row-2)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="44.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.090s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.090s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="64.50" class="ascii-text" clip-path="url(#clip-row-3)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="64.50" class="ascii-text" clip-path="url(#clip-row-3)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="56.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.135s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.135s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="76.50" class="ascii-text" clip-path="url(#clip-row-4)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@%s*=-==+s@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="76.50" class="ascii-text" clip-path="url(#clip-row-4)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="68.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.180s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.180s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="88.50" class="ascii-text" clip-path="url(#clip-row-5)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%*--`  .:.`=#@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="88.50" class="ascii-text" clip-path="url(#clip-row-5)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%@@@@@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="80.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.225s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.225s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="100.50" class="ascii-text" clip-path="url(#clip-row-6)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%=.`-::-=+:. `s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="100.50" class="ascii-text" clip-path="url(#clip-row-6)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@@@@%%%@@%@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="92.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.270s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.270s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="112.50" class="ascii-text" clip-path="url(#clip-row-7)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%=`:`-c##sc=`. .s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="112.50" class="ascii-text" clip-path="url(#clip-row-7)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@#s*=-``==-=*#@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="104.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.315s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.315s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="124.50" class="ascii-text" clip-path="url(#clip-row-8)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@c::`:*#ssscc+`  `#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="124.50" class="ascii-text" clip-path="url(#clip-row-8)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%c+=-:.  ``:-:`-*#@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="116.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.360s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.360s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="136.50" class="ascii-text" clip-path="url(#clip-row-9)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%=:`.:+*c+=--+*: .-@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="136.50" class="ascii-text" clip-path="url(#clip-row-9)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@s-`-=-:.  .`-+-`:`-c%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="128.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.405s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.405s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="148.50" class="ascii-text" clip-path="url(#clip-row-10)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@c:.. ..:**:::=cc:-.s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="148.50" class="ascii-text" clip-path="url(#clip-row-10)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@*`.`--=:..`:-+*-``..`+%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="140.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.450s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.450s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="160.50" class="ascii-text" clip-path="url(#clip-row-11)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%+-`  :+*#%ss###c+= -@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="160.50" class="ascii-text" clip-path="url(#clip-row-11)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@*`::``---*s##scc+-`...`=%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="152.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.495s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.495s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="172.50" class="ascii-text" clip-path="url(#clip-row-12)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@c-=: :#sssc*c*ccc=: `#@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="172.50" class="ascii-text" clip-path="url(#clip-row-12)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@s::::``:+#%###ssc*=`.....=%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="164.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.540s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.540s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="184.50" class="ascii-text" clip-path="url(#clip-row-13)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%=-:=`.cccc==+++**. . +@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="184.50" class="ascii-text" clip-path="url(#clip-row-13)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#=:::`:`=s#ssssscccc+:   ..+@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="176.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.585s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.585s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="196.50" class="ascii-text" clip-path="url(#clip-row-14)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#=::+-``c##ccssc+`    `%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="196.50" class="ascii-text" clip-path="url(#clip-row-14)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@*-:::``:*##sssssssccc*-     c@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="188.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.630s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.630s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="208.50" class="ascii-text" clip-path="url(#clip-row-15)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@s==+-:+:.=s#sc*+*`     *@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="208.50" class="ascii-text" clip-path="url(#clip-row-15)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#+=`:`.`:+**cc*+=-:-=+**-  .``#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="200.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.675s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.675s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="220.50" class="ascii-text" clip-path="url(#clip-row-16)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@#+=+=`=-:. `--=***:  .. :%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="220.50" class="ascii-text" clip-path="url(#clip-row-16)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@c--``....``-++=-:::`--=*c: -: =@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="212.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.720s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.720s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="232.50" class="ascii-text" clip-path="url(#clip-row-17)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*--=--:+=-`..-++*ccc-.    *@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="232.50" class="ascii-text" clip-path="url(#clip-row-17)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%+-:...  `..:-ss+:::`-=*ss+:`:..s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="224.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.765s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.765s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="244.50" class="ascii-text" clip-path="url(#clip-row-18)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%s====-:::*--:`==--=====-:``.:%@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="244.50" class="ascii-text" clip-path="url(#clip-row-18)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@s==-..   .--=*%%cc**cc####*===. +@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="236.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.810s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.810s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="256.50" class="ascii-text" clip-path="url(#clip-row-19)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%c=:==:`:`.``=:`++=-------==+**c#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="256.50" class="ascii-text" clip-path="url(#clip-row-19)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%*===`.  `+*s#%@%###%@%%%#s*+*-  `#@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="248.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.855s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.855s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="268.50" class="ascii-text" clip-path="url(#clip-row-20)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@sc+--::--:  ::..-*sc+===*cccccsscc#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="268.50" class="ascii-text" clip-path="url(#clip-row-20)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@s==-=:. .c#%scs#sc**+*ccccc*-+....c@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="260.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.900s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.900s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="280.50" class="ascii-text" clip-path="url(#clip-row-21)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%sc*+-:-*=``:``. -ccssccssssssssc**=s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="280.50" class="ascii-text" clip-path="url(#clip-row-21)">@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%==-:-:` `ss*+ss+=--+*-:-+*c*. ....=%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="272.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.945s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.945s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="292.50" class="ascii-text" clip-path="url(#clip-row-22)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#c+--```--:`:`:`.:+ccsssssssc*+++=--*@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="292.50" class="ascii-text" clip-path="url(#clip-row-22)">@@@@@@@@@@@@@@@@@@@@@@@@@@@%@s--:.-=:. -c***c*+===+**+*+*-  .. .`c@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="284.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="0.990s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="0.990s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="304.50" class="ascii-text" clip-path="url(#clip-row-23)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%sc-`````:==... ::=*cssssssc*+++=--+**%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="304.50" class="ascii-text" clip-path="url(#clip-row-23)">@@@@@@@@@@@@@@@@@@@@@@@@@@@%@c--`.:+-:  =css#sc+=*ss#c++-   .. ..=%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="296.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.035s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.035s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="316.50" class="ascii-text" clip-path="url(#clip-row-24)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%sc+-::.:***--=-=*cscccssssccc=:``=+++#@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="316.50" class="ascii-text" clip-path="url(#clip-row-24)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%c==`:+-`--. :*#%##sssssc*++`   .  ..:#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="308.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.080s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.080s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="328.50" class="ascii-text" clip-path="url(#clip-row-25)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#sc*+-``c###%%%%#cc##sss###s*-`. :=+++s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="328.50" class="ascii-text" clip-path="url(#clip-row-25)">@@@@@@@@@@@@@@@@@@@@@@@@@@%@%*=+:=+:.--=:  -c#%%#sc+=+++`    .  ..*@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="320.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.125s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.125s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="340.50" class="ascii-text" clip-path="url(#clip-row-26)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#cc*+=`:###scc**cccccccccs*+==-  :=+++*@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="340.50" class="ascii-text" clip-path="url(#clip-row-26)">@@@@@@@@@@@@@@@@@@@@@@@@%%@%s+=*=+- :=:::`  .------=+***:    ..  .-%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="332.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.170s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.170s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="352.50" class="ascii-text" clip-path="url(#clip-row-27)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#c*+=-`:cc*+=---=====+++++-::`-+ :=+*+*@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="352.50" class="ascii-text" clip-path="url(#clip-row-27)">@@@@@@@@@@@@@@@@@@@@@@@%@@%c+=+*=-:.-+:-.`.  `:::-=+****=     .. .`*@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="344.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.215s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.215s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="364.50" class="ascii-text" clip-path="url(#clip-row-28)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#c*+=-`:c*+=-:`:::::::::::`..`s#.-=++++%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="364.50" class="ascii-text" clip-path="url(#clip-row-28)">@@@@@@@@@@@@@@@@@@@@%%@@%c=--:+*:--.=+`+:..  .:==++*ccccc=.    .. .:%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="356.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.260s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.260s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="376.50" class="ascii-text" clip-path="url(#clip-row-29)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#c*+=-.:*+=-::::------::`....=@%:-=++++%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="376.50" class="ascii-text" clip-path="url(#clip-row-29)">@@@@@@@@@@@@@@@@@@@@@@@s======--::=:=*:-=-. .`-++++**ccsssc-`.     `s%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="368.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.305s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.305s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="388.50" class="ascii-text" clip-path="url(#clip-row-30)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@sc*+-:.`===-:::-====++-:```::=%@==++**=#@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="388.50" class="ascii-text" clip-path="url(#clip-row-30)">@@@@@@@@@@@@@@@@@@@@%s*--+==++-:::::+*-:==.`+*+==-------::-=--:``..`s@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="380.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.350s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.350s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="400.50" class="ascii-text" clip-path="url(#clip-row-31)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#c*+-: `*c**+++-------=--::::#@@+=++**=s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="400.50" class="ascii-text" clip-path="url(#clip-row-31)">@@@@@@@@@@@@@@@@@%@#cc--=+=++:--::.`--`-==``+cc+=------:::::-----===+*s%@@%%@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="392.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.395s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.395s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="412.50" class="ascii-text" clip-path="url(#clip-row-32)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#sc*=: `+***********cc**+=---%%@*-++**-c@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="412.50" class="ascii-text" clip-path="url(#clip-row-32)">@@@@@@@@@@@@@@@@@@%s**-`==++-``--` ....===:`=***++=-====----==-===+**ccs#%@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="404.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.440s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.440s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="424.50" class="ascii-text" clip-path="url(#clip-row-33)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#c**=:.:=****++****+++++++++=%%%s-+***-s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="424.50" class="ascii-text" clip-path="url(#clip-row-33)">@@@@@@@@@@@@@@@@%@#c**+:-=-:`:-==:.   -=-:.`-+*s#sc+=----=+******ccccsssccs%@@@@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="416.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.485s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.485s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="436.50" class="ascii-text" clip-path="url(#clip-row-34)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#c**+=`:+*cccsscccc*********+*@@#=+**+:s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="436.50" class="ascii-text" clip-path="url(#clip-row-34)">@@@@@@@@@@@@@@@@@%sc***+==-:-**c*+:  :-:`. .-*cccssc*+==++*ccssssscsssc***cc%@%@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="428.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.530s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.530s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="448.50" class="ascii-text" clip-path="url(#clip-row-35)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%scc*+=`-*ccccc******+++++***+*#%*c*+-`s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="448.50" class="ascii-text" clip-path="url(#clip-row-35)">@@@@@@@@@@@@@@@%@%scc***-:==-*ss=`.:--.```. :**cccccccccccccssscsssssc***c+=c@%@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="440.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.575s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.575s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="460.50" class="ascii-text" clip-path="url(#clip-row-36)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%sc**+=-`=+*cccc*++*******c**=`.cssc+-:#@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="460.50" class="ascii-text" clip-path="url(#clip-row-36)">@@@@@@@@@@@@@@@%@#s*+++==-:``*c*::..=`:--=` `=+cccccsccccccccccsss**++++=-::=%@%@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="452.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.620s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.620s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="472.50" class="ascii-text" clip-path="url(#clip-row-37)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#c**+==:-+*cccsscssscccc*+-:`..cc*+=:+@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="472.50" class="ascii-text" clip-path="url(#clip-row-37)">@@@@@@@@@@@@@@%@%sc*=:`::.```=-=**+.::::````:==***cccccc**ccsss*+--====-::===%@%@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="464.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.665s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.665s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="484.50" class="ascii-text" clip-path="url(#clip-row-38)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%c***+=-:+cssssssscc**=-::``` +sc*+-:#@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="484.50" class="ascii-text" clip-path="url(#clip-row-38)">@@@@@@@@@@@@@@%@#sc+`.`````=::-+c*:.``. .-=--++=cccsccccccssc*=--=*+=:::-+++=#@%@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="476.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.710s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.710s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="496.50" class="ascii-text" clip-path="url(#clip-row-39)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#*+*++=``-==++=-:::``:.````.:#cc*=:*@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="496.50" class="ascii-text" clip-path="url(#clip-row-39)">@@@@@@@@@@@@@@@%ssc*=::::`.``:*c*c= .:`  :--+cs+csssccccc***+++*cc+-:``-****+c@%@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="488.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.755s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.755s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="508.50" class="ascii-text" clip-path="url(#clip-row-40)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%c+++++: `` ```=-```.::``::`ccc*+=-%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="508.50" class="ascii-text" clip-path="url(#clip-row-40)">@@@@@@@@@@@@@%@%scc*+---::. -+ssssc+-++=++*sss#s*c**cssscsssssss+-:`..:++***++%@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="500.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.800s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.800s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="520.50" class="ascii-text" clip-path="url(#clip-row-41)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%****++`:`.`:::::````:::::*sc**+-s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="520.50" class="ascii-text" clip-path="url(#clip-row-41)">@@@@@@@@@@@@@%@#scc*++-:``.`*####s##%%%%%%#c*c##%##sss######sc=:```. .=++***++#@%@@@@@@@@@@@@@@@@@@@</text>
   <rect y="512.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.845s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.845s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="532.50" class="ascii-text" clip-path="url(#clip-row-42)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@s*****+..`:::-::::-:`:`.=sc**+-*@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="532.50" class="ascii-text" clip-path="url(#clip-row-42)">@@@@@@@@@@@@@%@#scc*++=-`. =#%##%%%%%######scs######ss###sssc*+=--`  `=+*****=s@%@@@@@@@@@@@@@@@@@@@</text>
   <rect y="524.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.890s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.890s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="544.50" class="ascii-text" clip-path="url(#clip-row-43)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#+*****: ...`:::.``::-:=scc*++-#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="544.50" class="ascii-text" clip-path="url(#clip-row-43)">@@@@@@@@@@@@@%@#scc*+=--:. =%####ssccc*ccccsscsssssssssssscc****+=. .:=+*****=c@%@@@@@@@@@@@@@@@@@@@</text>
   <rect y="536.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.935s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.935s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="556.50" class="ascii-text" clip-path="url(#clip-row-44)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#:*c****```:``.  ..````cs***+-`c@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="556.50" class="ascii-text" clip-path="url(#clip-row-44)">@@@@@@@@@@@@@%@#sc*+==-:`. -ccccc**+=====+++++*************+==--:-= .-=**ccc*+*@%@@@@@@@@@@@@@@@@@@@</text>
   <rect y="548.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="1.980s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="1.980s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="568.50" class="ascii-text" clip-path="url(#clip-row-45)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#:-ccc**+``````..``:-:*sc**+=`.+@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="568.50" class="ascii-text" clip-path="url(#clip-row-45)">@@@@@@@@@@@@@%@#sc*+=--:`. =****++=--::-----======+++++++=--:::::=@`.-++*ccc*++@%@@@@@@@@@@@@@@@@@@@</text>
   <rect y="560.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.025s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="2.025s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="580.50" class="ascii-text" clip-path="url(#clip-row-46)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%-`=*+***=..``::::--:+s****-`.`-%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="580.50" class="ascii-text" clip-path="url(#clip-row-46)">@@@@@@@@@@@@@@@#s**+==-:`. +ccc*+=-::```::::::::---------::`````:#@=.=++*****++@@@@@@@@@@@@@@@@@@@@@</text>
   <rect y="572.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.070s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="2.070s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="592.50" class="ascii-text" clip-path="url(#clip-row-47)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=::=++*s#c=::---:``-##c**=...``s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="592.50" class="ascii-text" clip-path="url(#clip-row-47)">@@@@@@@@@@@@@@%#s**++=-:`. =++++=-::``..``````````````::`....``:s@@*.==++****+=%@%@@@@@@@@@@@@@@@@@@</text>
   <rect y="584.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.115s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="2.115s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="604.50" class="ascii-text" clip-path="url(#clip-row-48)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@*:::cs#%###+..`` .*%%#ss=....:`s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="604.50" class="ascii-text" clip-path="url(#clip-row-48)">@@@@@@@@@@@@@@%#sc**+=-:`. =cc+=--::::::::::-----===--:``....`.*@%@s.==++****+=#@%@@@@@@@@@@@@@@@@@@</text>
   <rect y="596.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.160s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="2.160s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="616.50" class="ascii-text" clip-path="url(#clip-row-49)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@s:::+#sss#%#+.  :s@%#sss:....:`s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="616.50" class="ascii-text" clip-path="url(#clip-row-49)">@@@@@@@@@@@@@@%sc**+==-``. :====--:::::--==+++====-:`.......`::-%%@#:-=++*****=s@%@@@@@@@@@@@@@@@@@@</text>
   <rect y="608.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.205s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="2.205s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="628.50" class="ascii-text" clip-path="url(#clip-row-50)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%-```*ss%###s+ `%%##scc*..`.`:.s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="628.50" class="ascii-text" clip-path="url(#clip-row-50)">@@@@@@@@@@@@@@%sc**+=-:``. -=+===--::::---=====+****+=--::----:=%%@%--+++****+-c@%@@@@@@@@@@@@@@@@@@</text>
   <rect y="620.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.250s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="2.250s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="640.50" class="ascii-text" clip-path="url(#clip-row-51)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@*`::-csccc*ss:s%##sscc- `..``.s@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="640.50" class="ascii-text" clip-path="url(#clip-row-51)">@@@@@@@@@@@@@@%sc*++=-:`.. -csssccc*++=-::----:::::::------:``-%@%@@--==++**++-+@%@@@@@@@@@@@@@@@@@@</text>
   <rect y="632.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.295s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="2.295s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="652.50" class="ascii-text" clip-path="url(#clip-row-52)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#-::::+c*+c**#s+*c***+.``..``.#@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="652.50" class="ascii-text" clip-path="url(#clip-row-52)">@@@@@@@@@@@@@@@#sc*+=-:`.  =+*c*********++===+++++***++-:```::*@%@%@=:==++++++-+@%@@@@@@@@@@@@@@@@@@</text>
   <rect y="644.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.340s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="2.340s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="664.50" class="ascii-text" clip-path="url(#clip-row-53)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@*::::`-++=+cc===--++..:`.````%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="664.50" class="ascii-text" clip-path="url(#clip-row-53)">@@@@@@@@@@@@@%@#ssc*+=-:.  =+ccccc****ccc*********cc****+==--:*%%@%@+:-==+++++-=@%@@@@@@@@@@@@@@@@@@</text>
   <rect y="656.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.385s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="2.385s" dur="0.350s" fill="freeze" />
   </rect>
-  <text x="20.0" y="676.50" class="ascii-text" clip-path="url(#clip-row-54)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%-::::....````:.`=-..```````:%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="20.0" y="676.50" class="ascii-text" clip-path="url(#clip-row-54)">@@@@@@@@@@@@@%@#sscc+=-:. .-+cssccc*+++++***cccccccccccc**+=--s@%@%@*:-=++***+-+@%@@@@@@@@@@@@@@@@@@</text>
   <rect y="668.00" width="6.80" height="12.00" class="cursor" opacity="0">
     <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.430s" dur="0.350s" fill="freeze" />
     <animate attributeName="x" from="20.00" to="693.20" begin="2.430s" dur="0.350s" fill="freeze" />
-  </rect>
-  <text x="20.0" y="688.50" class="ascii-text" clip-path="url(#clip-row-55)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@s:::::`..    :`...``````...-@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <rect y="680.00" width="6.80" height="12.00" class="cursor" opacity="0">
-    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.475s" dur="0.350s" fill="freeze" />
-    <animate attributeName="x" from="20.00" to="693.20" begin="2.475s" dur="0.350s" fill="freeze" />
-  </rect>
-  <text x="20.0" y="700.50" class="ascii-text" clip-path="url(#clip-row-56)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%=:::`:````..`:  ```:```.`.+@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
-  <rect y="692.00" width="6.80" height="12.00" class="cursor" opacity="0">
-    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.95;1" begin="2.520s" dur="0.350s" fill="freeze" />
-    <animate attributeName="x" from="20.00" to="693.20" begin="2.520s" dur="0.350s" fill="freeze" />
   </rect>
 </svg>
