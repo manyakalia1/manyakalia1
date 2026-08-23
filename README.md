@@ -28,7 +28,7 @@
 - 🌐 Experienced in deploying applications on **Vercel** & cloud hosting
 - 🌱 Currently learning advanced full-stack development, cloud architecture & AI tools
 - 👯 Looking to collaborate on open-source projects and creative web apps
-- 💬 Ask me about **Java, JavaScript, Python, SQL, DBMS, React, Web Development**
+- 💬 Ask me about **C++, Java, JavaScript, Python, SQL, DBMS, React, Web Development**
 - 📫 How to reach me: **manyakalia10@gmail.com**
 
 ---
@@ -36,6 +36,7 @@
 ### 🛠️ Tech Stack & Tools
 
 #### **Languages**
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
