@@ -16,7 +16,7 @@ def generate_info_card(output_path="info-card.svg"):
     rows = [
         ("Now", "Building web apps & exploring AI tools", "#c084fc"),
         ("Prev", "Full-Stack Dev, DBMS & CS Fundamentals", "#60a5fa"),
-        ("Stack", "C++, React, Node.js, Python, Java, SQL, Vercel", "#4ade80"),
+        ("Stack", "Java, C++, SQL, JS, Python, TS, React, Node.js, Vercel", "#4ade80"),
         ("Highlights", "Open Source, Web Apps & CS Concepts", "#facc15"),
     ]
 
