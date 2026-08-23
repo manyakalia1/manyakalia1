@@ -12,7 +12,7 @@
 - 🔭 Working on building innovative web applications & scalable solutions
 - 🌱 Currently learning advanced full-stack development, cloud architecture & AI tools
 - 👯 Looking to collaborate on open-source projects and creative web apps
-- 💬 Ask me about **JavaScript, Python, React, Web Development**
+- 💬 Ask me about **Java, JavaScript, Python, React, Web Development**
 - 📫 How to reach me: **manyakalia10@gmail.com**
 
 ---
@@ -20,6 +20,7 @@
 ### 🛠️ Tech Stack & Tools
 
 #### **Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
