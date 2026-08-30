@@ -1,8 +1,8 @@
 {
   "username": "manyakalia1",
-  "total_contributions": 83,
-  "current_streak": 6,
-  "longest_streak": 6,
+  "total_contributions": 85,
+  "current_streak": 7,
+  "longest_streak": 7,
   "best_day": {
     "date": "2026-08-23",
     "count": 26
@@ -20,44 +20,9 @@
     "2026-05": 0,
     "2026-06": 10,
     "2026-07": 14,
-    "2026-08": 55
+    "2026-08": 57
   },
   "days": [
-    {
-      "date": "2025-08-24",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-25",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-26",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-27",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-28",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-29",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-30",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-08-31",
       "count": 0,
@@ -1875,6 +1840,11 @@
     },
     {
       "date": "2026-08-29",
+      "count": 2,
+      "level": 1
+    },
+    {
+      "date": "2026-08-30",
       "count": 0,
       "level": 0
     }
